@@ -9,7 +9,7 @@ El objetivo del presente proyecto es analizar el contenido de una base de datos 
 - ¿Qué forma de compra prefieren los usuarios en un rango de edad de 25 a 40 años? (online, en sucursal)
 - ¿Qué tipo de usuarios suelen visitar más la página web de la empresa?
 - ¿Cuál es la probabilidad de que un hombre de 50 años, soltero y con un ingreso de 30000 dólares, gaste más en vinos que en carnes?
-- ¿Cuál es la probabilidad de que una mujer de 30 años, casada, con 1 hijo y con un ingreso de 45000 dólares, realice más compras online que en la sucursal?
+- ¿Cuál es la probabilidad de que una mujer de 30 años, casada, con 1 hijo y un ingreso de 45000 dólares, realice más compras online que en la sucursal?
 
 ## Dataset
 El dataset que usaremos esta publicado en Kaggle link: https://www.kaggle.com/imakash3011/customer-personality-analysis, el cual consta de informacion de 2240 clientes de un supermercado, teniendo su información de montos gastados por el cliente en distintas categorias, la informacion de la forma de sus compras ya sea online o físicamente y además de tener información personal de cuantos hijos tiene y su estado civil para analizar su personalidad.
